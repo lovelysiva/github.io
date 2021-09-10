@@ -5,7 +5,7 @@
 
 ### 얼마나 사회복지에 예산을 쓰고 있는지!(사회복지예산규모)
 #### 시도사회복지분야 결산액(억원)
-##### <https://lovelysiva.github.io/github.io/시도사회복지분야 결산액(억원).html>
+##### <https://lovelysiva.github.io/github.io/시도사회복지분야결산액(억원).html>
 ### 전체예산 중에서 얼마나 많이 책정되었는지!(사회복지예산비율)
 #### 시도사회복지비비율(%)
 ##### <https://lovelysiva.github.io/github.io/시도사회복지비비율(%).html>
@@ -23,7 +23,7 @@
 ##### <https://lovelysiva.github.io/github.io/시도지방세(억원).html>
 ### 돈은 잘 관리하고 있는지!(주민1인당 자체수입액, 세외수입)
 #### 시도주민1인당 자체수입액(만원)
-##### <https://lovelysiva.github.io/github.io/시도주민1인당 자체수입액(만원).html>
+##### <https://lovelysiva.github.io/github.io/시도주민1인당자체수입액(만원).html>
 #### 시도세외수입(억원)
 ##### <https://lovelysiva.github.io/github.io/시도세외수입(억원).html>
 ### 일할 사람들은 어디에 있는지!(경제활동가능 및 청소년 인구규모&비율)
@@ -41,7 +41,7 @@
 
 ### 빚은 적절하게 관리하고 있는지!(자산대비부채비율)
 #### 시도비율(자산 나누기 부채)
-##### <https://lovelysiva.github.io/github.io/시도비율(자산 나누기 부채).html>
+##### <https://lovelysiva.github.io/github.io/시도비율(자산나누기부채).html>
 #### 시도재정자립도(개편후)
 ##### <https://lovelysiva.github.io/github.io/시도재정자립도(개편후).html>
 ### 세금은 빠짐없이 잘 걷었는지!(세입확충노력)
