@@ -1,6 +1,3 @@
-### 여기로 들어오시면 됩니다!
-### <https://lovelysiva.github.io/github.io/>
-
 # 재정데이터 시각화 경진대회
 ## 혁신적 포용국가 구현을 위해서
 
