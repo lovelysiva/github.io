@@ -4,10 +4,10 @@
 ### 얼마나 사회복지에 예산을 쓰고 있는지!(사회복지예산규모)
 #### 시도사회복지분야 결산액(억원) <https://lovelysiva.github.io/github.io/시도사회복지분야결산액(억원).html>
 ### 전체예산 중에서 얼마나 많이 책정되었는지!(사회복지예산비율)
-#### 시도사회복지비비율(%) <https://lovelysiva.github.io/github.io/시도사회복지비비율(%).html>
+#### 시도사회복지비비율(%) <https://lovelysiva.github.io/github.io/시도사회복지비비율.html>
 ### 고령인수 수에 비하면 얼마나 책정되었는지!(고령인구 1인당 사회복지 예산규모)
 #### 시도고령인구(명) <https://lovelysiva.github.io/github.io/시도고령인구(명).html>
-#### 시도고령인구비율(%) <https://lovelysiva.github.io/github.io/시도고령인구비율(%).html>
+#### 시도고령인구비율(%) <https://lovelysiva.github.io/github.io/시도고령인구비율.html>
        
 ## 인구변화 대응하고 소득분배를 개선하기위해
 
@@ -18,7 +18,7 @@
 #### 시도세외수입(억원) <https://lovelysiva.github.io/github.io/시도세외수입(억원).html>
 ### 일할 사람들은 어디에 있는지!(경제활동가능 및 청소년 인구규모&비율)
 #### 시도청소년인구(명) <https://lovelysiva.github.io/github.io/시도청소년인구(명).html>
-#### 시도청소년인구비율(%) <https://lovelysiva.github.io/github.io/시도청소년인구비율(%).html>     
+#### 시도청소년인구비율(%) <https://lovelysiva.github.io/github.io/시도청소년인구비율.html>     
 #### 시도경제활동가능인구(명) <https://lovelysiva.github.io/github.io/시도경제활동가능인구(명).html>
 #### 시도경제활동가능인구비율(명) <https://lovelysiva.github.io/github.io/시도경제활동가능인구비율(명).html>
        
