@@ -5,7 +5,7 @@
      1. 얼마나 사회복지에 예산을 쓰고 있는지!(사회복지예산규모)
      
        #시도사회복지분야 결산액(억원)
-       [지도 바로가기](https://lovelysiva.github.io/github.io/시도사회복지분야 결산액(억원).html)
+       <https://lovelysiva.github.io/github.io/시도사회복지분야 결산액(억원).html>
        
      2. 전체예산 중에서 얼마나 많이 책정되었는지!(사회복지예산비율)
      
