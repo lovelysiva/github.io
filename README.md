@@ -59,7 +59,7 @@
 
 
 # 혁신적 포용국가 구현을 위해서
-### [목차가기](https://lovelysiva.github.io/github.io/)
+### [목차가기(두번누르시면됩니다!)](https://lovelysiva.github.io/github.io/)
 ## 1. 얼마나 사회복지에 예산을 쓰고 있는지!(사회복지예산규모)
 ### 시도사회복지분야 결산액(억원) <https://lovelysiva.github.io/github.io/시도사회복지분야결산액(억원).html>
 ## 2. 전체예산 중에서 얼마나 많이 책정되었는지!(사회복지예산비율)
@@ -120,7 +120,7 @@
 
 
 # 인구변화 대응하고 소득분배를 개선하기위해
-### [목차가기](https://lovelysiva.github.io/github.io/)
+### [목차가기(두번누르시면됩니다!)](https://lovelysiva.github.io/github.io/)
 ## 1. 세금은 얼마나 걷었는지!(지방세 규모)
 ### 시도지방세(억원) <https://lovelysiva.github.io/github.io/시도지방세(억원).html>
 ## 2. 돈은 잘 관리하고 있는지!(주민1인당 자체수입액, 세외수입)
@@ -184,7 +184,7 @@
 
 
 # 중장기적 재정건정성 강화를 위해
-### [목차가기](https://lovelysiva.github.io/github.io/)
+### [목차가기(두번누르시면됩니다!)](https://lovelysiva.github.io/github.io/)
 ## 1. 빚은 적절하게 관리하고 있는지!(자산대비부채비율)
 ### 시도비율(자산 나누기 부채) <https://lovelysiva.github.io/github.io/시도비율(자산나누기부채).html>
 ### 시도재정자립도(개편후) <https://lovelysiva.github.io/github.io/시도재정자립도(개편후).html>
